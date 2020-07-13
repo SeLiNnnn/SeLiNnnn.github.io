@@ -1,7 +1,7 @@
 sudo: false
 language: node_js
 node_js:
-  - 12.16.1
+  - 6.13.4
 cache: npm
 branches:
   only:
